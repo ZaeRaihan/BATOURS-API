@@ -48,7 +48,7 @@ nodemon or node index.js
 
 ### Postman Docs
 
-https://documenter.getpostman.com/view/4289441/T1LTejTW
+https://documenter.getpostman.com/view/4289441/2s93sc3rvC
 
 
 
